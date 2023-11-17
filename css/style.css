@@ -1,0 +1,60 @@
+.inline-block {
+    display: inline-block;
+    padding-right: 30px;
+    vertical-align: top;
+    color: white;
+}
+.navigation {
+    width: 100%;
+}    
+  .logo {
+    width: 23%;
+    padding: 5%;
+}
+  nav {
+    height: 80px;
+    background-color: #263D87;
+    display: flex;
+    align-items: center;
+}
+  ul {
+    margin-left: auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.content {
+    width: 500px;
+    margin: 40px auto 75px;
+    text-align: center;
+}
+footer {
+    background-color: #263D87;
+  }
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+}
+  footer li {
+    padding: 0 10px;
+    color: white; 
+    padding: 10px;
+  }
+body {
+    color: #263D87;
+}
+  button {
+    background-color: #263D87;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: #1A2E66; 
+}
+ul li {
+    margin-right: 30px;
+}
