@@ -42,6 +42,9 @@ footer {
   }
 body {
     color: #263D87;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0;
 }
   button {
     background-color: #263D87;
