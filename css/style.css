@@ -10,6 +10,7 @@
   .logo {
     width: 23%;
     padding: 5%;
+    min-width: 100px;
 }
   nav {
     height: 80px;
